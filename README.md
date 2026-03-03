@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="256" height=auto src="https://github.com/BanceDev/lush/blob/main/logo.png">
+  <img width="256" height=auto src="https://github.com/lancebord/lush/blob/main/logo.png">
   <br/>
-  <img src="https://github.com/BanceDev/lush/actions/workflows/build.yml/badge.svg" alt="build status">
-  <img src="https://img.shields.io/github/contributors/bancedev/lush" alt="contributors">
-  <img src="https://img.shields.io/github/license/bancedev/lush" alt="license">
-  <img src="https://img.shields.io/github/forks/bancedev/lush" alt="forks">
+  <img src="https://github.com/lancebord/lush/actions/workflows/build.yml/badge.svg" alt="build status">
+  <img src="https://img.shields.io/github/contributors/lancebord/lush" alt="contributors">
+  <img src="https://img.shields.io/github/license/lancebord/lush" alt="license">
+  <img src="https://img.shields.io/github/forks/lancebord/lush" alt="forks">
 </p>
 
 ---
